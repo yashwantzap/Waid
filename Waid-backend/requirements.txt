@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+aiofiles
+requests
+python-docx
+reportlab
+PyPDF2
+pymupdf
+pdfminer.six
